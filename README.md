@@ -13,16 +13,13 @@ A reinforcement learning project where a full humanoid robot (the real-world **U
 | 3 | LSTM | Distance + direction + domain randomization | Wind-up learned, ~50m best throw |
 
 ### Policy 1
-<!-- To embed: drag Policy_1.mp4 into a GitHub Issue comment box, wait for upload, copy the generated URL, and paste it below -->
-> 📹 *Video placeholder — see `RL training documentation/Policy_1.mp4`*
+https://github.com/user-attachments/assets/9c5b91f0-4eee-4f59-972b-74422ed9ac89
 
 ### Policy 2
-<!-- To embed: drag Policy_2.mp4 into a GitHub Issue comment box, wait for upload, copy the generated URL, and paste it below -->
-> 📹 *Video placeholder — see `RL training documentation/Policy_2.mp4`*
+https://github.com/user-attachments/assets/c0e92ee6-3771-40e7-a7fd-a99948bb1979
 
 ### Policy 3 (Final)
-<!-- To embed: drag Policy_3_final.mp4 into a GitHub Issue comment box, wait for upload, copy the generated URL, and paste it below -->
-> 📹 *Video placeholder — see `RL training documentation/Policy_3_final.mp4`*
+https://github.com/user-attachments/assets/5f013630-663a-48aa-a151-2a48de72c0cb
 
 ---
 
@@ -145,4 +142,4 @@ python3 visualize.py   # watch a saved policy (set model path in file)
 
 ## Compatibility note
 
-`throw_policy.zip` was trained with the **left arm fixed** and the 10-joint observation/action layout above. If you modify `throw_env.py` or `throw.xml` the saved policy will not load — observation and action dimensions must match exactly. When in doubt, retrain.
+`throw_policy.zip` was trained with the **left arm fixed** and the 10-joint observation/action layout above. If you modify `throw_env.py` or `throw.xml` the saved policy will not load — observation and action dimensions must match exactly. When in doubt, retrain.ss
