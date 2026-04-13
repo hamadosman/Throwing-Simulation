@@ -13,7 +13,7 @@ A reinforcement learning project where a full humanoid robot (the real-world **U
 | 3 | LSTM | Distance + direction + domain randomization | Wind-up learned, ~50m best throw |
 
 ### Policy 1
-https://github.com/user-attachments/assets/9c5b91f0-4eee-4f59-972b-74422ed9ac89
+https://github.com/user-attachments/assets/8e6b961a-7d0f-4ea7-aae9-e2a8a56db259
 
 ### Policy 2
 https://github.com/user-attachments/assets/c0e92ee6-3771-40e7-a7fd-a99948bb1979
